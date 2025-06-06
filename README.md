@@ -30,7 +30,7 @@ User Input → Streamlit UI → LangChain PromptTemplate → LLM (OpenAI) → Re
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/langchain-chatbot.git
+git clone https://github.com/SachinLoddiyaKarthik/Q-A_Chatbot.git
 cd langchain-chatbot
 ```
 
