@@ -44,7 +44,7 @@ User Input → Streamlit UI → LangChain Messages → OpenAI → Funny AI Respo
 
 ### 1. Clone this repo
 ```bash
-git clone https://github.com/yourusername/fun-ai-chatbot.git
+git clone https://github.com/SachinLoddiyaKarthik/Conversational-AI-Chatbot-with-LangChain-and-OpenAI
 cd fun-ai-chatbot
 ````
 
